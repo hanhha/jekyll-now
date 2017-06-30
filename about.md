@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+**_What is my real name?_**
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I get bored talking about myself. It makes me recall to a novel, Eragon (Christopher Paolini) in that everything has a real name and most of them don't know it. But I can talk about the projects and knowledges. Not all of them are used in my job and some of them seem crazy. Well, I always learn new stuffs and try to find some things to apply them.
+>Everything flows, nothing stands still. - Heraclitus.
